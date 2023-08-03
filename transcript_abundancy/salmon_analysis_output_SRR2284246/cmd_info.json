@@ -1,0 +1,9 @@
+{
+    "salmon_version": "1.10.2",
+    "index": "salmon_index_SRR2284246",
+    "libType": "ISR",
+    "mates1": "Data/SRR2284246_1_filtered.fastq",
+    "mates2": "Data/SRR2284246_2_filtered.fastq",
+    "output": "salmon_analysis_output_SRR2284246",
+    "auxDir": "aux_info"
+}
